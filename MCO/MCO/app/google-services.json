@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "343204459420",
+    "firebase_url": "https://budgetwise-gb123-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "budgetwise-gb123",
+    "storage_bucket": "budgetwise-gb123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343204459420:android:312f327a01f9c870464e59",
+        "android_client_info": {
+          "package_name": "com.mobicom.budgetwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdcX9jyRJLbtW_wD_EOa7xTQoIyWqIrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

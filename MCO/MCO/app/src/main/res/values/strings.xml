@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MCO</string>
+    <string name="welcome">Welcome to</string>
+    <string name="email">Email</string>
+    <string name="x" />
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign up</string>
+    <string name="ttitle">BudgetWise!</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="create">Create Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="logo">BudgetWise</string>
+    <string name="name">Alice</string>
+    <string name="addexpense">Add Expense</string>
+    <string name="food">Food</string>
+    <string name="price">P500.00</string>
+    <string name="grocery">Groceries</string>
+    <string name="transpo">Transportation</string>
+    <string name="save">Savings</string>
+    <string name="util">Utilities</string>
+    <string name="entertainemtn">Entertainment</string>
+    <string name="shop">Shopping</string>
+    <string name="FH"><![CDATA[Fitness & Health]]></string>
+    <string name="select">Select Item</string>
+</resources>
